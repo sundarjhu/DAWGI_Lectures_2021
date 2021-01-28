@@ -1,0 +1,12 @@
+README.md
+setup.py
+Demo_DAWGI_HBM.egg-info/PKG-INFO
+Demo_DAWGI_HBM.egg-info/SOURCES.txt
+Demo_DAWGI_HBM.egg-info/dependency_links.txt
+Demo_DAWGI_HBM.egg-info/requires.txt
+Demo_DAWGI_HBM.egg-info/top_level.txt
+Pleiades/Marginal_SFH_Bar_NoScale.py
+Pleiades/SFH_3D_plot_no_scaled.py
+Pleiades/SFH_Sampling.py
+Pleiades/__init__.py
+Pleiades/a_statistics_def_fun.py

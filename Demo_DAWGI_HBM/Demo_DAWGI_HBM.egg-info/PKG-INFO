@@ -1,0 +1,19 @@
+Metadata-Version: 1.1
+Name: Demo-DAWGI-HBM
+Version: 0.1.6
+Summary: Demo of hierarchical Bayesian modelling using Gaia eDR3 data for Pleiades
+Home-page: https://github.com/Link4138/Demo_DAWGI_HBM
+Author: Jairo Andrés Alzate Trujillo
+Author-email: andresalzate3146@gmail.com
+License: BSD 3-clause
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
